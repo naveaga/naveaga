@@ -1,0 +1,5 @@
+to make it to exe we gonna to write cmd in the search bar and after we type cd and the path of where the python file used
+and we gonna write pip install pyinstaller
+if u already have it we type pyinstaller --onefile (the python file name.py)
+
+and when its done in the same folder u have a new folder with the name "dist" open it and u gonna see it 
